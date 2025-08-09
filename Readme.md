@@ -144,7 +144,7 @@ ZombieCheck Application Structure:
 ![Challenge Popup](zombie_alert.png)
 *Zombie detection challenge window with random code verification*
 
-![Settings Panel](zombie_moniter.pnj)
+![Settings Panel](zombie_moniter.png)
 *Customizable settings for sensitivity, gaming mode, and nightmare mode*
 
 #### Core Algorithm Flow:
