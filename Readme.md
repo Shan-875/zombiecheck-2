@@ -182,7 +182,7 @@ zombiecheck/
 ### Project Demo
 
 #### Video Demo
-[Demo Video Link](https://your-demo-video-link.com)
+[Demo Video Link](https://drive.google.com/file/d/1uyFdBC0fiOJHuXDZLzKU717I10dEae75/view?usp=drivesdk)
 *Video demonstrates zombie detection triggers, challenge popups, successful code entry, and stats tracking*
 
 #### Live Demo Scenarios:
