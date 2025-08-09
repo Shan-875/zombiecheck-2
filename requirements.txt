@@ -1,0 +1,22 @@
+# ZombieCheck - Anti-Mindless-Browsing App
+# Requirements file for Python dependencies
+
+# Core dependencies
+# Note: tkinter comes with Python standard library, no pip install needed
+# All other imports are from Python standard library:
+# - threading
+# - time
+# - random
+# - string
+# - json
+# - os
+# - datetime
+# - sys
+
+# No external packages required - all dependencies are built into Python standard library
+# This file is created for project documentation and future extensibility
+
+# If you need to install additional packages in the future, add them here
+# Example:
+# requests==2.31.0
+# pillow==10.0.0

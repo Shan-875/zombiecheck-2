@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "total_interventions": 37,
+    "today_interventions": 37,
+    "longest_streak": 51,
+    "current_streak": 51,
+    "avg_response_time": 18.169954382634625,
+    "false_positives": 3,
+    "successful_detections": 45,
+    "tolerance_saves": 18,
+    "daily_productivity_score": 100
+  },
+  "settings": {
+    "sensitivity": "high",
+    "idle_threshold": 45,
+    "mindless_threshold": 30,
+    "tolerance_decay": 0.8,
+    "nightmare_mode": false,
+    "gaming_mode": false,
+    "visual_warnings": true,
+    "adaptive_threshold": true,
+    "grace_period": 25
+  },
+  "tolerance_level": 10,
+  "last_updated": "2025-08-09T08:38:33.476682",
+  "version": "2.3"
+}
