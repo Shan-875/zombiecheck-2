@@ -1,4 +1,7 @@
-# ZombieCheck - The Anti-Mindless-Browsing App 🧟‍♂️⚡
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+
+
+# ZombieCheck - The Anti-Mindless-Browsing App 
 
 ## Basic Details
 ### Team Name: null pointers
@@ -138,13 +141,20 @@ ZombieCheck Application Structure:
 
 #### Screenshots
 
-![Main Interface](intro_screen.png)
-*Main ZombieCheck interface showing monitoring status, stats, and settings*
 
-![Challenge Popup](zombie_alert.png)
+*Main Zom<img width="603" height="879" alt="intro_screen" src="https://github.com/user-attachments/assets/577270f9-d26e-410a-a54e-7e69865f20f4" />
+bieCheck interface showing monitoring status, stats, and settings*
+
+
+
+<img width="1215" height="893" alt="zombie_alert" src="https://github.com/user-attachments/assets/30e4513b-54aa-49a9-bb84-aeb6bc50274f" />
+
 *Zombie detection challenge window with random code verification*
 
-![Settings Panel](zombie_moniter.png)
+
+
+<img width="952" height="884" alt="zombie_moniter" src="https://github.com/user-attachments/assets/6c70ff54-ed05-458e-b11d-912fb199d508" />
+
 *Customizable settings for sensitivity, gaming mode, and nightmare mode*
 
 #### Core Algorithm Flow:
@@ -246,3 +256,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
+
+
+
