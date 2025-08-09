@@ -138,13 +138,13 @@ ZombieCheck Application Structure:
 
 #### Screenshots
 
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](intro_screen.png)
 *Main ZombieCheck interface showing monitoring status, stats, and settings*
 
-![Challenge Popup](screenshots/challenge_popup.png)
+![Challenge Popup](zombie_alert.png)
 *Zombie detection challenge window with random code verification*
 
-![Settings Panel](screenshots/settings_panel.png)
+![Settings Panel](zombie_moniter.pnj)
 *Customizable settings for sensitivity, gaming mode, and nightmare mode*
 
 #### Core Algorithm Flow:
