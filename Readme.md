@@ -1,7 +1,7 @@
 # ZombieCheck - The Anti-Mindless-Browsing App 🧟‍♂️⚡
 
 ## Basic Details
-### Team Name: Focus Guardians
+### Team Name: null pointers
 ### Team Members
 - Team Lead: Shan V Varghese - College of Engineering Munnar
 - Member 2: Jagannath P S - College of Engineering Munnar
@@ -38,24 +38,24 @@ For Software:
 #### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/zombiecheck.git
-cd zombiecheck
+git clone https://https://github.com/Shan-875/zombiecheck-2
+cd zombiecheck-2
 
 # No additional dependencies needed - uses built-in Python libraries!
 # Just ensure you have Python 3.7+ installed
 python --version
 
-# Make the main file executable (optional)
-chmod +x zombie_check.py
+
 ```
 
 #### Run
 ```bash
+pip install -r requirment.txt
 # Run the application
-python zombie_check.py
+python app.py
 
 # Or on some systems
-python3 zombie_check.py
+python3 app.py
 ```
 
 ### Project Documentation
